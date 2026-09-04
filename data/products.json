@@ -1,0 +1,735 @@
+[
+  {
+    "category": "smartphone",
+    "brand": "Samsung",
+    "model": "Galaxy M35 5G",
+    "variant": "8GB 128GB",
+    "price_inr": 19999,
+    "specifications": {
+      "processor_score": 78,
+      "ram_gb": 8,
+      "storage_gb": 128,
+      "display_score": 88,
+      "camera_score": 82,
+      "battery_score": 94,
+      "software_score": 88,
+      "build_score": 82,
+      "feature_score": 86,
+      "connectivity": ["4G", "5G", "Wi-Fi", "Bluetooth"]
+    },
+    "listing": {
+      "marketplace": "Demo Marketplace",
+      "seller_name": "Demo Authorized Seller",
+      "seller_score": 100,
+      "condition": "New",
+      "condition_score": 100,
+      "warranty_verified": true,
+      "warranty_type": "Manufacturer warranty",
+      "warranty_score": 100,
+      "warranty_evidence": "Demo manufacturer warranty evidence for development testing.",
+      "information_completeness": 100,
+      "status": "VERIFIED",
+      "trust_score": 100
+    },
+    "warranty": {
+      "verified": true,
+      "type": "Manufacturer warranty",
+      "evidence": "Demo manufacturer warranty evidence for development testing."
+    },
+    "reviews": {
+      "average_rating": 4.3,
+      "review_count": 1250,
+      "sentiment": "Positive",
+      "complaints": [
+        "Some users report slower charging compared with competitors.",
+        "Large display may feel heavy to some users."
+      ]
+    },
+    "price_history": {
+      "historical_low": 18499,
+      "price_status": "Slightly above historical low"
+    },
+    "sale_timing": {
+      "upcoming_event": "Demo Festival Sale",
+      "days_until": 14,
+      "recommendation": "Consider waiting for the upcoming sale if purchase is not urgent."
+    }
+  },
+  {
+    "category": "smartphone",
+    "brand": "OnePlus",
+    "model": "Nord CE4",
+    "variant": "8GB 128GB",
+    "price_inr": 19999,
+    "specifications": {
+      "processor_score": 88,
+      "ram_gb": 8,
+      "storage_gb": 128,
+      "display_score": 90,
+      "camera_score": 78,
+      "battery_score": 92,
+      "software_score": 86,
+      "build_score": 84,
+      "feature_score": 90,
+      "connectivity": ["4G", "5G", "Wi-Fi", "Bluetooth"]
+    },
+    "listing": {
+      "marketplace": "Demo Marketplace",
+      "seller_name": "Demo Authorized Seller",
+      "seller_score": 100,
+      "condition": "New",
+      "condition_score": 100,
+      "warranty_verified": true,
+      "warranty_type": "Manufacturer warranty",
+      "warranty_score": 100,
+      "warranty_evidence": "Demo manufacturer warranty evidence for development testing.",
+      "information_completeness": 100,
+      "status": "VERIFIED",
+      "trust_score": 100
+    },
+    "warranty": {
+      "verified": true,
+      "type": "Manufacturer warranty",
+      "evidence": "Demo manufacturer warranty evidence for development testing."
+    },
+    "reviews": {
+      "average_rating": 4.4,
+      "review_count": 980,
+      "sentiment": "Positive",
+      "complaints": [
+        "Camera performance is weaker in low light.",
+        "Some users prefer a higher resolution display."
+      ]
+    },
+    "price_history": {
+      "historical_low": 18999,
+      "price_status": "Near historical low"
+    },
+    "sale_timing": {
+      "upcoming_event": "Demo Electronics Sale",
+      "days_until": 21,
+      "recommendation": "Current price is reasonable, but a sale may offer additional savings."
+    }
+  },
+  {
+    "category": "smartphone",
+    "brand": "CMF",
+    "model": "Phone 1",
+    "variant": "8GB 128GB",
+    "price_inr": 15999,
+    "specifications": {
+      "processor_score": 84,
+      "ram_gb": 8,
+      "storage_gb": 128,
+      "display_score": 92,
+      "camera_score": 76,
+      "battery_score": 90,
+      "software_score": 88,
+      "build_score": 78,
+      "feature_score": 94,
+      "connectivity": ["4G", "5G", "Wi-Fi", "Bluetooth"]
+    },
+    "listing": {
+      "marketplace": "Demo Marketplace",
+      "seller_name": "Demo Authorized Seller",
+      "seller_score": 100,
+      "condition": "New",
+      "condition_score": 100,
+      "warranty_verified": true,
+      "warranty_type": "Manufacturer warranty",
+      "warranty_score": 100,
+      "warranty_evidence": "Demo manufacturer warranty evidence for development testing.",
+      "information_completeness": 100,
+      "status": "VERIFIED",
+      "trust_score": 100
+    },
+    "warranty": {
+      "verified": true,
+      "type": "Manufacturer warranty",
+      "evidence": "Demo manufacturer warranty evidence for development testing."
+    },
+    "reviews": {
+      "average_rating": 4.2,
+      "review_count": 950,
+      "sentiment": "Positive",
+      "complaints": [
+        "Camera features are more limited than some premium competitors.",
+        "No charger included in some packages."
+      ]
+    },
+    "price_history": {
+      "historical_low": 14999,
+      "price_status": "Slightly above historical low"
+    },
+    "sale_timing": {
+      "upcoming_event": "Demo Sale Event",
+      "days_until": 7,
+      "recommendation": "Waiting a few days may provide a better price."
+    }
+  },
+  {
+    "category": "smartphone",
+    "brand": "Motorola",
+    "model": "Moto G85 5G",
+    "variant": "8GB 128GB",
+    "price_inr": 17999,
+    "specifications": {
+      "processor_score": 80,
+      "ram_gb": 8,
+      "storage_gb": 128,
+      "display_score": 91,
+      "camera_score": 80,
+      "battery_score": 91,
+      "software_score": 90,
+      "build_score": 85,
+      "feature_score": 88,
+      "connectivity": ["4G", "5G", "Wi-Fi", "Bluetooth"]
+    },
+    "listing": {
+      "marketplace": "Demo Marketplace",
+      "seller_name": "Demo Authorized Seller",
+      "seller_score": 100,
+      "condition": "New",
+      "condition_score": 100,
+      "warranty_verified": true,
+      "warranty_type": "Manufacturer warranty",
+      "warranty_score": 100,
+      "warranty_evidence": "Demo manufacturer warranty evidence for development testing.",
+      "information_completeness": 100,
+      "status": "VERIFIED",
+      "trust_score": 100
+    },
+    "warranty": {
+      "verified": true,
+      "type": "Manufacturer warranty",
+      "evidence": "Demo manufacturer warranty evidence for development testing."
+    },
+    "reviews": {
+      "average_rating": 4.3,
+      "review_count": 720,
+      "sentiment": "Positive",
+      "complaints": [
+        "Gaming performance is below dedicated gaming phones.",
+        "Some users report occasional software bugs."
+      ]
+    },
+    "price_history": {
+      "historical_low": 16999,
+      "price_status": "Near historical low"
+    },
+    "sale_timing": {
+      "upcoming_event": "Demo Festival Sale",
+      "days_until": 14,
+      "recommendation": "Current price is reasonable."
+    }
+  },
+
+  {
+    "category": "laptop",
+    "brand": "ASUS",
+    "model": "Vivobook 15",
+    "variant": "16GB 512GB SSD",
+    "price_inr": 54999,
+    "specifications": {
+      "processor_score": 86,
+      "ram_gb": 16,
+      "storage_gb": 512,
+      "display_score": 82,
+      "camera_score": 70,
+      "battery_score": 84,
+      "software_score": 90,
+      "build_score": 82,
+      "feature_score": 88,
+      "connectivity": ["Wi-Fi", "Bluetooth", "USB-C", "HDMI"]
+    },
+    "listing": {
+      "marketplace": "Demo Marketplace",
+      "seller_name": "Demo Authorized Seller",
+      "seller_score": 100,
+      "condition": "New",
+      "condition_score": 100,
+      "warranty_verified": true,
+      "warranty_type": "Manufacturer warranty",
+      "warranty_score": 100,
+      "warranty_evidence": "Demo laptop manufacturer warranty evidence for development testing.",
+      "information_completeness": 100,
+      "status": "VERIFIED",
+      "trust_score": 100
+    },
+    "warranty": {
+      "verified": true,
+      "type": "Manufacturer warranty",
+      "evidence": "Demo laptop manufacturer warranty evidence for development testing."
+    },
+    "reviews": {
+      "average_rating": 4.3,
+      "review_count": 860,
+      "sentiment": "Positive",
+      "complaints": [
+        "Display brightness could be better outdoors.",
+        "Integrated graphics are not designed for demanding gaming."
+      ]
+    },
+    "price_history": {
+      "historical_low": 51999,
+      "price_status": "Slightly above historical low"
+    },
+    "sale_timing": {
+      "upcoming_event": "Demo Laptop Sale",
+      "days_until": 10,
+      "recommendation": "A short wait may provide a better price."
+    }
+  },
+  {
+    "category": "laptop",
+    "brand": "Lenovo",
+    "model": "IdeaPad Slim 5",
+    "variant": "16GB 512GB SSD",
+    "price_inr": 57999,
+    "specifications": {
+      "processor_score": 90,
+      "ram_gb": 16,
+      "storage_gb": 512,
+      "display_score": 86,
+      "camera_score": 76,
+      "battery_score": 88,
+      "software_score": 91,
+      "build_score": 88,
+      "feature_score": 90,
+      "connectivity": ["Wi-Fi", "Bluetooth", "USB-C", "HDMI"]
+    },
+    "listing": {
+      "marketplace": "Demo Marketplace",
+      "seller_name": "Demo Authorized Seller",
+      "seller_score": 100,
+      "condition": "New",
+      "condition_score": 100,
+      "warranty_verified": true,
+      "warranty_type": "Manufacturer warranty",
+      "warranty_score": 100,
+      "warranty_evidence": "Demo laptop manufacturer warranty evidence for development testing.",
+      "information_completeness": 100,
+      "status": "VERIFIED",
+      "trust_score": 100
+    },
+    "warranty": {
+      "verified": true,
+      "type": "Manufacturer warranty",
+      "evidence": "Demo laptop manufacturer warranty evidence for development testing."
+    },
+    "reviews": {
+      "average_rating": 4.4,
+      "review_count": 1100,
+      "sentiment": "Positive",
+      "complaints": [
+        "Premium configuration can become expensive.",
+        "Gaming performance is limited without a dedicated GPU."
+      ]
+    },
+    "price_history": {
+      "historical_low": 54999,
+      "price_status": "Near historical low"
+    },
+    "sale_timing": {
+      "upcoming_event": "Demo Electronics Sale",
+      "days_until": 18,
+      "recommendation": "Current price is acceptable for the specification."
+    }
+  },
+
+  {
+    "category": "tv",
+    "brand": "LG",
+    "model": "43-inch 4K Smart TV",
+    "variant": "4K UHD",
+    "price_inr": 32999,
+    "specifications": {
+      "processor_score": 78,
+      "ram_gb": 4,
+      "storage_gb": 16,
+      "display_score": 94,
+      "camera_score": 0,
+      "battery_score": 0,
+      "software_score": 91,
+      "build_score": 86,
+      "feature_score": 93,
+      "connectivity": ["Wi-Fi", "Bluetooth", "HDMI", "USB"]
+    },
+    "listing": {
+      "marketplace": "Demo Marketplace",
+      "seller_name": "Demo Authorized Seller",
+      "seller_score": 100,
+      "condition": "New",
+      "condition_score": 100,
+      "warranty_verified": true,
+      "warranty_type": "Manufacturer warranty",
+      "warranty_score": 100,
+      "warranty_evidence": "Demo TV manufacturer warranty evidence for development testing.",
+      "information_completeness": 100,
+      "status": "VERIFIED",
+      "trust_score": 100
+    },
+    "warranty": {
+      "verified": true,
+      "type": "Manufacturer warranty",
+      "evidence": "Demo TV manufacturer warranty evidence for development testing."
+    },
+    "reviews": {
+      "average_rating": 4.4,
+      "review_count": 1400,
+      "sentiment": "Positive",
+      "complaints": [
+        "Built-in speakers may be insufficient for large rooms.",
+        "Some users prefer higher refresh rates for gaming."
+      ]
+    },
+    "price_history": {
+      "historical_low": 29999,
+      "price_status": "Slightly above historical low"
+    },
+    "sale_timing": {
+      "upcoming_event": "Demo Big Electronics Sale",
+      "days_until": 12,
+      "recommendation": "Waiting for the upcoming sale may reduce the purchase price."
+    }
+  },
+  {
+    "category": "tv",
+    "brand": "Samsung",
+    "model": "43-inch Crystal 4K",
+    "variant": "4K Smart TV",
+    "price_inr": 34999,
+    "specifications": {
+      "processor_score": 84,
+      "ram_gb": 4,
+      "storage_gb": 16,
+      "display_score": 96,
+      "camera_score": 0,
+      "battery_score": 0,
+      "software_score": 93,
+      "build_score": 88,
+      "feature_score": 95,
+      "connectivity": ["Wi-Fi", "Bluetooth", "HDMI", "USB"]
+    },
+    "listing": {
+      "marketplace": "Demo Marketplace",
+      "seller_name": "Demo Authorized Seller",
+      "seller_score": 100,
+      "condition": "New",
+      "condition_score": 100,
+      "warranty_verified": true,
+      "warranty_type": "Manufacturer warranty",
+      "warranty_score": 100,
+      "warranty_evidence": "Demo TV manufacturer warranty evidence for development testing.",
+      "information_completeness": 100,
+      "status": "VERIFIED",
+      "trust_score": 100
+    },
+    "warranty": {
+      "verified": true,
+      "type": "Manufacturer warranty",
+      "evidence": "Demo TV manufacturer warranty evidence for development testing."
+    },
+    "reviews": {
+      "average_rating": 4.5,
+      "review_count": 1600,
+      "sentiment": "Positive",
+      "complaints": [
+        "Price can be higher than competing models.",
+        "Smart TV interface may require some learning."
+      ]
+    },
+    "price_history": {
+      "historical_low": 31999,
+      "price_status": "Slightly above historical low"
+    },
+    "sale_timing": {
+      "upcoming_event": "Demo Festival Sale",
+      "days_until": 20,
+      "recommendation": "Current price is reasonable but waiting may help."
+    }
+  },
+
+  {
+    "category": "headphones",
+    "brand": "Sony",
+    "model": "WH-CH720N",
+    "variant": "Wireless ANC",
+    "price_inr": 8999,
+    "specifications": {
+      "processor_score": 72,
+      "ram_gb": 0,
+      "storage_gb": 0,
+      "display_score": 0,
+      "camera_score": 0,
+      "battery_score": 91,
+      "software_score": 86,
+      "build_score": 84,
+      "feature_score": 94,
+      "connectivity": ["Bluetooth", "3.5mm"]
+    },
+    "listing": {
+      "marketplace": "Demo Marketplace",
+      "seller_name": "Demo Authorized Seller",
+      "seller_score": 100,
+      "condition": "New",
+      "condition_score": 100,
+      "warranty_verified": true,
+      "warranty_type": "Manufacturer warranty",
+      "warranty_score": 100,
+      "warranty_evidence": "Demo headphone manufacturer warranty evidence for development testing.",
+      "information_completeness": 100,
+      "status": "VERIFIED",
+      "trust_score": 100
+    },
+    "warranty": {
+      "verified": true,
+      "type": "Manufacturer warranty",
+      "evidence": "Demo headphone manufacturer warranty evidence for development testing."
+    },
+    "reviews": {
+      "average_rating": 4.4,
+      "review_count": 2100,
+      "sentiment": "Positive",
+      "complaints": [
+        "Plastic construction may feel less premium.",
+        "Bass response may not satisfy every listener."
+      ]
+    },
+    "price_history": {
+      "historical_low": 7999,
+      "price_status": "Slightly above historical low"
+    },
+    "sale_timing": {
+      "upcoming_event": "Demo Audio Sale",
+      "days_until": 9,
+      "recommendation": "Waiting for the upcoming sale could improve value."
+    }
+  },
+
+  {
+    "category": "earbuds",
+    "brand": "OnePlus",
+    "model": "Buds 3",
+    "variant": "Wireless ANC",
+    "price_inr": 5499,
+    "specifications": {
+      "processor_score": 75,
+      "ram_gb": 0,
+      "storage_gb": 0,
+      "display_score": 0,
+      "camera_score": 0,
+      "battery_score": 94,
+      "software_score": 90,
+      "build_score": 88,
+      "feature_score": 95,
+      "connectivity": ["Bluetooth", "ANC"]
+    },
+    "listing": {
+      "marketplace": "Demo Marketplace",
+      "seller_name": "Demo Authorized Seller",
+      "seller_score": 100,
+      "condition": "New",
+      "condition_score": 100,
+      "warranty_verified": true,
+      "warranty_type": "Manufacturer warranty",
+      "warranty_score": 100,
+      "warranty_evidence": "Demo earbuds manufacturer warranty evidence for development testing.",
+      "information_completeness": 100,
+      "status": "VERIFIED",
+      "trust_score": 100
+    },
+    "warranty": {
+      "verified": true,
+      "type": "Manufacturer warranty",
+      "evidence": "Demo earbuds manufacturer warranty evidence for development testing."
+    },
+    "reviews": {
+      "average_rating": 4.4,
+      "review_count": 1750,
+      "sentiment": "Positive",
+      "complaints": [
+        "Fit may vary depending on ear shape.",
+        "Some users report reduced ANC effectiveness in very noisy environments."
+      ]
+    },
+    "price_history": {
+      "historical_low": 4999,
+      "price_status": "Near historical low"
+    },
+    "sale_timing": {
+      "upcoming_event": "Demo Audio Sale",
+      "days_until": 8,
+      "recommendation": "Current price is reasonable and a sale is approaching."
+    }
+  },
+  {
+    "category": "earbuds",
+    "brand": "Nothing",
+    "model": "Ear",
+    "variant": "Wireless ANC",
+    "price_inr": 6999,
+    "specifications": {
+      "processor_score": 78,
+      "ram_gb": 0,
+      "storage_gb": 0,
+      "display_score": 0,
+      "camera_score": 0,
+      "battery_score": 90,
+      "software_score": 94,
+      "build_score": 90,
+      "feature_score": 96,
+      "connectivity": ["Bluetooth", "ANC"]
+    },
+    "listing": {
+      "marketplace": "Demo Marketplace",
+      "seller_name": "Demo Authorized Seller",
+      "seller_score": 100,
+      "condition": "New",
+      "condition_score": 100,
+      "warranty_verified": true,
+      "warranty_type": "Manufacturer warranty",
+      "warranty_score": 100,
+      "warranty_evidence": "Demo earbuds manufacturer warranty evidence for development testing.",
+      "information_completeness": 100,
+      "status": "VERIFIED",
+      "trust_score": 100
+    },
+    "warranty": {
+      "verified": true,
+      "type": "Manufacturer warranty",
+      "evidence": "Demo earbuds manufacturer warranty evidence for development testing."
+    },
+    "reviews": {
+      "average_rating": 4.3,
+      "review_count": 1250,
+      "sentiment": "Positive",
+      "complaints": [
+        "Battery life depends on ANC usage.",
+        "Premium features increase the price."
+      ]
+    },
+    "price_history": {
+      "historical_low": 6499,
+      "price_status": "Near historical low"
+    },
+    "sale_timing": {
+      "upcoming_event": "Demo Festival Sale",
+      "days_until": 16,
+      "recommendation": "Current price is acceptable."
+    }
+  },
+
+  {
+    "category": "smartwatch",
+    "brand": "Amazfit",
+    "model": "GTS 4 Mini",
+    "variant": "GPS Smartwatch",
+    "price_inr": 6999,
+    "specifications": {
+      "processor_score": 72,
+      "ram_gb": 1,
+      "storage_gb": 8,
+      "display_score": 90,
+      "camera_score": 0,
+      "battery_score": 96,
+      "software_score": 88,
+      "build_score": 86,
+      "feature_score": 92,
+      "connectivity": ["Bluetooth", "GPS"]
+    },
+    "listing": {
+      "marketplace": "Demo Marketplace",
+      "seller_name": "Demo Authorized Seller",
+      "seller_score": 100,
+      "condition": "New",
+      "condition_score": 100,
+      "warranty_verified": true,
+      "warranty_type": "Manufacturer warranty",
+      "warranty_score": 100,
+      "warranty_evidence": "Demo smartwatch manufacturer warranty evidence for development testing.",
+      "information_completeness": 100,
+      "status": "VERIFIED",
+      "trust_score": 100
+    },
+    "warranty": {
+      "verified": true,
+      "type": "Manufacturer warranty",
+      "evidence": "Demo smartwatch manufacturer warranty evidence for development testing."
+    },
+    "reviews": {
+      "average_rating": 4.3,
+      "review_count": 1850,
+      "sentiment": "Positive",
+      "complaints": [
+        "Limited third-party app support.",
+        "Some advanced features require the companion app."
+      ]
+    },
+    "price_history": {
+      "historical_low": 5999,
+      "price_status": "Slightly above historical low"
+    },
+    "sale_timing": {
+      "upcoming_event": "Demo Wearables Sale",
+      "days_until": 11,
+      "recommendation": "Waiting for the upcoming sale may improve the price."
+    }
+  },
+  {
+    "category": "smartwatch",
+    "brand": "Samsung",
+    "model": "Galaxy Watch",
+    "variant": "Bluetooth",
+    "price_inr": 14999,
+    "specifications": {
+      "processor_score": 86,
+      "ram_gb": 2,
+      "storage_gb": 16,
+      "display_score": 94,
+      "camera_score": 0,
+      "battery_score": 82,
+      "software_score": 94,
+      "build_score": 92,
+      "feature_score": 96,
+      "connectivity": ["Bluetooth", "GPS", "Wi-Fi"]
+    },
+    "listing": {
+      "marketplace": "Demo Marketplace",
+      "seller_name": "Demo Authorized Seller",
+      "seller_score": 100,
+      "condition": "New",
+      "condition_score": 100,
+      "warranty_verified": true,
+      "warranty_type": "Manufacturer warranty",
+      "warranty_score": 100,
+      "warranty_evidence": "Demo smartwatch manufacturer warranty evidence for development testing.",
+      "information_completeness": 100,
+      "status": "VERIFIED",
+      "trust_score": 100
+    },
+    "warranty": {
+      "verified": true,
+      "type": "Manufacturer warranty",
+      "evidence": "Demo manufacturer warranty evidence for development testing."
+    },
+    "reviews": {
+      "average_rating": 4.4,
+      "review_count": 2200,
+      "sentiment": "Positive",
+      "complaints": [
+        "Battery life is lower than simpler fitness watches.",
+        "Some features work best with compatible smartphones."
+      ]
+    },
+    "price_history": {
+      "historical_low": 13499,
+      "price_status": "Slightly above historical low"
+    },
+    "sale_timing": {
+      "upcoming_event": "Demo Wearables Sale",
+      "days_until": 15,
+      "recommendation": "A sale may provide better value."
+    }
+  }
+]
