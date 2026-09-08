@@ -5,7 +5,9 @@ import {
   UserAnalysisRequest
 } from '../types/index.js';
 
-const API_BASE = '/api';
+const rawBaseUrl = import.meta.env.VITE_API_BASE_URL || 'http://localhost:5000';
+const cleanBaseUrl = rawBaseUrl.replace(/\/+$/, '');
+const API_BASE = cleanBaseUrl.endsWith('/api') ? cleanBaseUrl : `${cleanBaseUrl}/api`;
 
 export async function analyzeBuyWise(request: UserAnalysisRequest): Promise<BuyWiseAnalysisResponse> {
   const response = await fetch(`${API_BASE}/buywise/analyze`, {
